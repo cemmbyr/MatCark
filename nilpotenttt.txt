@@ -1,0 +1,14 @@
+
+Bu Bir Nilpotent Matris Degildir
+Uretilen Kare Matris
+-13	-14	6	-3	-9	
+0	-4	-5	-7	-10	
+-6	-12	-1	7	10	
+14	10	-14	-5	12	
+1	-4	-7	-6	-11	
+Karsilastirilan Kare Matris
+82	172	91	248	380	
+-78	46	193	88	16	
+192	174	-143	0	138	
+-156	-166	34	-257	-558	
+-66	70	194	72	10	

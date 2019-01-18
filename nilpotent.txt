@@ -1,0 +1,8 @@
+
+Bu Bir Nilpotent Matris Degildir
+Uretilen Kare Matris
+10	4	
+10	-5	
+Karsilastirilan Kare Matris
+140	20	
+50	65	
