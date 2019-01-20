@@ -1,0 +1,4 @@
+# MatCark
+C Dilinde Özdeğer,Schur,Özvektör,Nilpotent Bulan Program
+Matematik çarkı programı, bu program kullanıcıdan alınan   sayı kadar 0-241 arasında rastgele sayılar üretir, ürettiği sayılardan son rastgele sayıya göre işlem yapar son sayının 4 rakamı ile moduna göre 4 farklı işlem yapılır. Seçilen işleme göre işlemin fonksiyonu çağırılıp gerekli matematiksel hesaplamalar yapılır.
+Fonksiyonlarda kullanıcının gireceği kare matrisin boyutu alınır nilpotent fonksiyonu hariç diğer fonksiyonlarda matrisin elemanları da kullanıcından istenir. Nilpotent fonksiyonunda ise matrisin elemanları -15 ve +15 arasında rastgele değerler olarak atanır ve matrisin nilpotent matris olup olmadığı kontrol edilir. Eğer işlem nilpotent değil ise kullanıcıdan alınan matris seçilen işleme tabi tutulup fonksiyon çağrılır ve hesaplamalar yapılır.
