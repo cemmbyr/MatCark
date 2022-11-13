@@ -1,8 +1,3 @@
-/*
-ÖZGÜR DEMIR 160202072
-CEM   BAYIR 160202066
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -160,7 +155,7 @@ int ozdeger(int ymatris[][10],int x, int y)
         d=(ymatris[1][0]*ymatris[2][1]*ymatris[0][2])+(ymatris[2][0]*ymatris[0][1]*ymatris[1][2])+(ymatris[0][1]*ymatris[1][1]*ymatris[2][2])-(ymatris[0][2]*ymatris[1][1]*ymatris[2][0])-(ymatris[0][0]*ymatris[1][2]*ymatris[2][1])-(ymatris[0][1]*ymatris[1][0]*matris[2][2]);
 
         /* BU KISIM http://www.dreamincode.net/forums/topic/21670-cubic-equation/ WEB SITESINDEN ALINTIDIR !!!!!!!
-           KOD WEB SITEDEN ALINMIS OLUP ÜZERINDE ÇESITLI OYNAMALAR YAPILMISTIR !!!!!!!!!!!!  */
+           KOD WEB SITEDEN ALINMIS OLUP ÃœZERINDE Ã‡ESITLI OYNAMALAR YAPILMISTIR !!!!!!!!!!!!  */
         e=2.7182818284590;
 
         z=((3*c/a)-(b*b/a*a))/3;
